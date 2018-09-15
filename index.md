@@ -1,4 +1,4 @@
-# hello guys
+# hello everybody
 ## <a href="#index">目次</a>
 * [PiTcoinとは](#anchor1)
 * [PiTcoin取得方法](#anchor2)
