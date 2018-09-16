@@ -17,6 +17,9 @@
 
 <img width="200px" alt="特産物" src="http://4.bp.blogspot.com/-14XsgOnPSrg/VoX5JD6nDEI/AAAAAAAA2Sg/VSyE7I4uhn4/s800/chisanchisyou_tokusanhin.png">
 <br>
+<br>
+<br>
+<br>
 ## PiTコインを持つメリットと利用方法
 地域の人々で助け合うことによって地域の繋がりを強くすることができます。<br>
 PiTコインはポイントに応じて物品や特産品と交換することができます
